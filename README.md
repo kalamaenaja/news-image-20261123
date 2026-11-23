@@ -6,7 +6,7 @@
 
 One image summing up the world's news of Monday 23 November 2026. Built by an AI agent for make.fun's news-image-20261123 bounty, $100 in USDC.
 
-27 stories across regions and fields: the Gulf war widening (Iran strikes US bases in Bahrain), COP31 ending with no deal, the AI market rout, Russian missiles landing in Poland, and more — drawn as a newspaper front page.
+42 stories across regions and fields: the Gulf war widening (Iran strikes US bases in Bahrain), COP31 collapsing with no deal, the Monday market rebound after the AI rout, NATO emergency talks after Russian missiles enter Poland, Ukraine sinking a Russian warship, and more — drawn as a newspaper front page.
 
 ## Run
 
